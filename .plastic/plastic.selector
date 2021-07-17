@@ -1,0 +1,4 @@
+repository "FirstAR@ssl://zhiqinlei1998@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/zhiqinlei1998" 
+     
